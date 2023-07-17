@@ -1,0 +1,10 @@
+dotenv
+os
+streamlit
+PyPDF2
+langchain.text_splitter
+langchain.embeddings.openai
+langchain.vectorstores
+langchain.llms
+langchain.chains.question_answering
+langchain.callbacks
