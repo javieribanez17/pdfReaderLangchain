@@ -20,7 +20,7 @@ def main():
     #print(os.getenv("OPEN_AI_KEY"))
     #GUI configuration
     st.set_page_config(page_title="PDF GPT extractor")
-    st.header("Introduce tu pregunta 💬")
+    st.header("¡Bienvenido! haz clic en el botón para comenzar 👇")
     #Work with pdf file
     #Upload file
     pdf = st.file_uploader("Carga tu PDF", type="pdf")
