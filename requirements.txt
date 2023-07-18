@@ -1,10 +1,8 @@
-dotenv
-os
+# Enviroment variables
+python-dotenv
+# GUI with streamlit
 streamlit
+# Pdf file
 PyPDF2
-langchain.text_splitter
-langchain.embeddings.openai
-langchain.vectorstores
-langchain.llms
-langchain.chains.question_answering
-langchain.callbacks
+# Text analysis
+langchain
